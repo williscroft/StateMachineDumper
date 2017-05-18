@@ -1,0 +1,8 @@
+
+public enum Event {
+	DIED,
+	SAW_MOVEMENT,
+	TUNNEL_UP,
+	ERRORS,
+	GO_DOWN, TIMEOUT,
+}
